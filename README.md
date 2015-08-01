@@ -1,7 +1,7 @@
 # curso-de-node
 Curso do básico ao avançado em NodeJS.
 
-TODO: gravar video aulas e deixar o material em formato de "apostila" com cada readme por etapa.
+TODO: gravar video aulas e deixar o material em formato de "apostila" (usar [gitbook](https://www.gitbook.com/)) com cada readme por etapa.
 
 # Table of Contents:
 
